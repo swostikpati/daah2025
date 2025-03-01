@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 1"
+title: "Post: Assignment1"
 # date: 2025-03-02T15:34:30-04:00
 categories:
   - Blog
