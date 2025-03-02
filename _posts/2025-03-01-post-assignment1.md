@@ -54,15 +54,23 @@ In all texts, **character names** rank among the **most frequent words** once co
 <!-- add iframe: word cloud of all three texts -->
 <iframe style='width: 566px; height: 399px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-054dae2435b342f9cff0a4d0ebd5e7aa&whiteList=&corpus=ffdfbbcfa7475244b815befa1f39c66d'></iframe>
 <!-- screenshots from posit cloud about top words from every text -->
+
 - Naturally, **“Harry”** dominates both the first and last Harry Potter books, reflecting his role as the protagonist.
 - However, character mentions also reveal how relationships evolve over time. In _Sorcerer’s Stone_, **Hagrid** is referenced **more frequently** than **Hermione**, as the trio’s friendship had not yet fully formed.
 - By _Deathly Hallows_, **Hermione** is mentioned **almost as often** as **Ron**, reflecting their **deepened bond** and equal importance in the final book.
 - On the other hand, **Voldemort**, who is **rarely named** in the early books due to the fear surrounding him, becomes a **recurring presence** in the later books, as the characters **are no longer afraid** to speak his name.
 - The word **"death"** is also notably **more common** in _Deathly Hallows_, signifying the **heavier themes of loss and sacrifice** that dominate the final installment.
+  ![Frequency Book 1](/assets/images/text1.jpg)
+
+![Frequency Book 7](/assets/images/text2.jpg)
+
+![Frequency Fan Fiction](/assets/images/text3.jpg)
 
 ## Fanfiction Language Differences
 
 The fanfiction, _And I Will Find You_, differs significantly from the original Harry Potter books in both **focus and language**:
+
+![Posit Graph](/assets/images/graph_posit.jpg)
 
 - The story centers **primarily** on **Harry and Hermione**, with **other major characters not making an appearance**.
 - Notably, **Ron is never mentioned** at all in the fanfic, an omission that aligns with **a trend in certain fan communities** to sideline Ron to favor a Harry/Hermione pairing.
