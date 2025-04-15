@@ -6,6 +6,8 @@ categories:
 tags:
   - Harry Potter
   - Fan Fiction
+  - Posit Cloud
+  - Voyant Tools
 ---
 
 # Analyzing Harry Potter and Fanfiction
