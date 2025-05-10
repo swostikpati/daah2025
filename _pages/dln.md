@@ -38,6 +38,28 @@ Despite my growing proficiency in digital research tools, I recognize gaps in my
 
 Additionally, I also want to explore the ethical dimensions of digital work. How do biases in AI systems shape the way information is processed? How can we ensure that digital tools do not reinforce systemic inequalities and biases in academia and beyond? Digital literacy is not just about technical proficiency but also about developing a critical lens through which we can evaluate digital systems and their impact on society.
 
+### Revisiting Platforms and Their Capabilities
+
+Over the course of this semester, my understanding of digital platforms has evolved from simply using them as tools to increase efficiency in my workflow to actually going into critically analyzing their values and limitations. I ask deeper questions: _What narratives do these platforms privilege? What assumptions about knowledge, culture, and even beauty are built into their algorithms?_
+
+The readings by **Sonja Drimmer** and **Ruta Binkyte** have been a big part in this shift. Drimmer’s critique of AI hijacking art history made me realize how easily AI tools turn historical artifacts into objects of entertainment from sources of genuine history and cultural insight. I now see that platforms promoting AI-driven “restorations” of lost art or historical events take away so much meaning of the original piece. As Drimmer argues, these reconstructions rarely teach us anything new about the past but instead project our contemporary technological fascinations onto it.
+
+Similarly, Binkyte’s concept of _distant viewing_ helped me understand both the power and the pitfalls of applying computational methods to visual culture. While I once viewed algorithmic pattern recognition as a neutral tool, I now understand that these tools impose their own frameworks and data biases on art and culture, often reducing complex forms into mere simple patterns.
+
+It is essential that I continue to stay aware of these limitations and artificial nature of the outputs of these tools while evaluating every single work of art I see, especially in this age of AI.
+
+### Realizations and Areas for Improvement
+
+Through this course, I’ve become more adept at recognizing the affordances and limitations of digital environments. I am confident in using platforms for collaboration, data visualization, and even AI-assisted research. However, I’ve also realized that my skills in critically interrogating the outputs of AI tools—especially in visual and cultural domains—are still developing. I hope to strengthen my ability to not just generate data-driven insights but to interpret them with historical and cultural sensitivity.
+
+I’m also becoming increasingly aware of the need for balance between computational analysis and human interpretation. As emphasized by Binkyte, data visualization and algorithmic analyses can challenge established canons and open up new research avenues, but they can never replace the nuanced understanding that comes from human critical thought. This is particularly relevant in the growing field of digital art history, where AI might identify visual patterns across thousands of images, but it is still up to scholars to situate these patterns within meaningful historical, social, and cultural contexts.
+
+### Working and Learning with AI
+
+Engaging with AI tools has been both exciting and humbling. While I am amazed by their capacity to process vast datasets and reveal patterns invisible to the human eye, I also share Drimmer’s skepticism about their growing influence over fields traditionally grounded in humanistic inquiry. AI is undoubtedly getting better at writing, generating visuals, and producing convincing narratives—but _“better”_ does not necessarily mean _more accurate_ or _more meaningful_. It often just means faster and more confidently presented.
+
+I now understand that as we integrate AI into our workflows, we must also develop what Drimmer calls a _“skeptical eye.”_ This skepticism does not mean rejecting AI outright but remaining critically aware of its blind spots, its underlying assumptions, and the economic and political forces that drive its development.
+
 ### Conclusion
 
 As I continue my journey through university, I am excited to deepen my engagement with digital humanities and computational thinking. I believe digital literacy is not a static skill set but an ever-evolving practice that requires constant learning and adaptation. By embracing interdisciplinary collaboration, critically reflecting on digital tools - their abilities and limitations, - and exploring new ways of approaching data, I hope to cultivate a digital fluency that is both technically sound and ethically informed. The liberal arts, with their emphasis on holistic learning, provide the perfect environment for this exploration - one where the humanities and technology work together to enrich our understanding of the world.
