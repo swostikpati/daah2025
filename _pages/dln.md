@@ -56,6 +56,10 @@ I’m also becoming increasingly aware of the need for balance between computati
 
 ### Working and Learning with AI
 
+The AI era is scary. Everyday I wake up and see new tools, models, methods, and full-scale applications have come up. Being a person in tech, I have the added pressure of being updated everyday or risk being left behind. But even through all this, I truly enjoy the process of learning and adapting to new technologies. I am genuinely excited about the potential of AI and also my own in being able to integrate these tools more and more into my everyday workflow. I aim to explore RAGs, MCP servers, etc. in more detail in the coming months.
+
+I have learned a lot through this class as well, especially being able to aid in converting analog data into digital formats, analyzing them using multimodal models, and also visualizing the results in meaningful ways. These are skills I hope to carry forward into my future work both in academia and industry.
+
 ### Conclusion
 
 As I continue my journey through university, I am excited to deepen my engagement with digital humanities and computational thinking. I believe digital literacy is not a static skill set but an ever-evolving practice that requires constant learning and adaptation. By embracing interdisciplinary collaboration, critically reflecting on digital tools - their abilities and limitations, - and exploring new ways of approaching data, I hope to cultivate a digital fluency that is both technically sound and ethically informed. The liberal arts, with their emphasis on holistic learning, provide the perfect environment for this exploration - one where the humanities and technology work together to enrich our understanding of the world.
